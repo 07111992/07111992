@@ -74,7 +74,7 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
 
 <div style="display: inline_block"><br> 
 
-  <img align="center" alt="ghdss25-Windows" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-plain.svg">
+ 
 </div>
 
   
