@@ -17,7 +17,7 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
 
 </details>
 
-![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss26&show_icons=true&theme=dracula)
+![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=07111992&show_icons=true&theme=dracula)
 
 ## Tecnologias mais utilizadas
 
@@ -86,7 +86,7 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
 ### 💻 Desempenho no Github
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghdss26&amp;theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=07111992&amp;theme=radical">
 </div>
 
 
