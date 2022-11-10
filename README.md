@@ -42,7 +42,7 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
   
  <img align="center" alt="ghdss25-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="ghdss25-php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- <img align="center" alt="ghdss25-dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+ 
 
 </div>
 
@@ -50,8 +50,7 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
 
 <div style="display: inline_block"><br> 
   
- <img align="center" alt="ghdss25-kotlin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
- <img align="center" alt="ghdss25-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+
   
 </div>
 
@@ -59,9 +58,7 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
 
 <div style="display: inline_block"><br> 
   
- <img align="center" alt="ghdss25-flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
- 
- <img align="center" alt="ghdss25-react-native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
  
 </div>
 
@@ -69,8 +66,6 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
 
 <div style="display: inline_block"><br> 
   
-   <img align="center" alt="ghdss25-sqlite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-   <img align="center" alt="ghdss25-postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
    <img align="center" alt="ghdss25-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
 </div>
@@ -79,7 +74,7 @@ Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo 
 
 <div style="display: inline_block"><br> 
 
-  <img align="center" alt="ghdss25-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+  <img align="center" alt="ghdss25-Windows" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-plain.svg">
 </div>
 
   
